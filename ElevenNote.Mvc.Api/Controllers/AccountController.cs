@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using ElevenNote.Mvc.Api.Models;
+using ElevenNote.Mvc.Api.Data;
 
 namespace ElevenNote.Mvc.Api.Controllers
 {
